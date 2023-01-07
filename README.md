@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/AK-CHP1/fm_four_card_feature_section)
-- Live Site URL: [Github Pages](https://ak-chp1.github.io/fm_four_card-feature_section)
+- Live Site URL: [Github Pages](https://ak-chp1.github.io/fm_four_card_feature_section/)
 
 ## My process
 
